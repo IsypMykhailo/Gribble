@@ -1,0 +1,15 @@
+[submodule "web"]
+	path = web
+	url = git@github.com:IsypMykhailo/web.git
+[submodule "SchedulerService"]
+	path = SchedulerService
+	url = git@github.com:IsypMykhailo/SchedulerService.git
+[submodule "OAuthService"]
+	path = OAuthService
+	url = git@github.com:IsypMykhailo/OAuthService.git
+[submodule "NotificationService"]
+	path = NotificationService
+	url = git@github.com:IsypMykhailo/NotificationService.git
+[submodule "HomeworkService"]
+	path = HomeworkService
+	url = git@github.com:IsypMykhailo/HomeworkService.git
